@@ -5,4 +5,7 @@ A demo wallet system API using Django Rest Framework that allows users to deposi
 Paystack helps businesses like yours accept payments from anyone, anywhere in the world.
 
 ## Tools
-* 
+* Django
+* Django REST Framework
+* JSON Web Tokens (JWT)
+* Postman
